@@ -19,8 +19,8 @@ Day 1
 - [x] head, title, and body tags
 - [x] Headers (h1, h2) and Paragraph p
 - [x] article tag
-- [ ] nested h1, h2, and p tags within the article tag
-- [ ] more article tags
+- [x] nested h1, h2, and p tags within the article tag
+- [x] more article tags
 
 ## Contact
 
