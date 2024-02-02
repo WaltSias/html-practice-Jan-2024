@@ -21,6 +21,10 @@ Day 1
 - [x] article tag
 - [x] nested h1, h2, and p tags within the article tag
 - [x] more article tags
+- [x] list  
+- [x] added img
+- [x] added links page
+- [x] added index page
 
 ## Contact
 
