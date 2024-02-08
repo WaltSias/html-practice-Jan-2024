@@ -6,7 +6,7 @@ This is a website about Tennis Terms
 
 It will contain a variety of HTML tags and content to describe the topic.
 
-The tags will include headers, paragraph, lists, images, anchors, and tables.
+The tags will include headers, paragraph, lists, images, anchors, and tables
 
 ## Built With
 
@@ -25,7 +25,6 @@ Day 1
 - [x] added img
 - [x] added links page
 - [x] added index page
-
 ## Contact
 
 Author: Walter Sias walt.sias@gmail.com
